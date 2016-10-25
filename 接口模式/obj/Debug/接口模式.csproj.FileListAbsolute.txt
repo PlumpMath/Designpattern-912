@@ -1,0 +1,6 @@
+E:\MyProject\接口模式\接口模式\bin\Debug\接口模式.exe.config
+E:\MyProject\接口模式\接口模式\bin\Debug\接口模式.exe
+E:\MyProject\接口模式\接口模式\bin\Debug\接口模式.pdb
+E:\MyProject\接口模式\接口模式\obj\Debug\接口模式.csprojResolveAssemblyReference.cache
+E:\MyProject\接口模式\接口模式\obj\Debug\接口模式.exe
+E:\MyProject\接口模式\接口模式\obj\Debug\接口模式.pdb

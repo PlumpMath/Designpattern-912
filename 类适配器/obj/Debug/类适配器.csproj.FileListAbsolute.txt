@@ -1,0 +1,6 @@
+E:\MyProject\接口模式\类适配器\bin\Debug\类适配器.exe.config
+E:\MyProject\接口模式\类适配器\bin\Debug\类适配器.exe
+E:\MyProject\接口模式\类适配器\bin\Debug\类适配器.pdb
+E:\MyProject\接口模式\类适配器\obj\Debug\类适配器.csprojResolveAssemblyReference.cache
+E:\MyProject\接口模式\类适配器\obj\Debug\类适配器.exe
+E:\MyProject\接口模式\类适配器\obj\Debug\类适配器.pdb

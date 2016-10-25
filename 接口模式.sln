@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口模式", "接口模式\接口模式.csproj", "{F0A1E658-8061-48CF-B798-B76808FEAA81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "纯逻辑模式", "纯逻辑模式\纯逻辑模式.csproj", "{4E7DD860-9A36-464A-A043-36B6FE9E78C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "类适配器", "类适配器\类适配器.csproj", "{2E0A9F66-EB89-4A94-8F24-91157D124635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "对象适配器", "对象适配器\对象适配器.csproj", "{AC4A107E-E680-4B18-A591-E4267D910540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "适配模式的经典案例--电压", "适配模式的经典案例--电压\适配模式的经典案例--电压.csproj", "{0937C83B-160E-4CEB-8724-B5C1A1D64A9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "外观模式", "外观模式\外观模式.csproj", "{937A6F95-0FF4-4DB3-B879-19CAC1B3BD60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0A1E658-8061-48CF-B798-B76808FEAA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A1E658-8061-48CF-B798-B76808FEAA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A1E658-8061-48CF-B798-B76808FEAA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A1E658-8061-48CF-B798-B76808FEAA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7DD860-9A36-464A-A043-36B6FE9E78C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7DD860-9A36-464A-A043-36B6FE9E78C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7DD860-9A36-464A-A043-36B6FE9E78C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7DD860-9A36-464A-A043-36B6FE9E78C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0A9F66-EB89-4A94-8F24-91157D124635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0A9F66-EB89-4A94-8F24-91157D124635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0A9F66-EB89-4A94-8F24-91157D124635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0A9F66-EB89-4A94-8F24-91157D124635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4A107E-E680-4B18-A591-E4267D910540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4A107E-E680-4B18-A591-E4267D910540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4A107E-E680-4B18-A591-E4267D910540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4A107E-E680-4B18-A591-E4267D910540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0937C83B-160E-4CEB-8724-B5C1A1D64A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0937C83B-160E-4CEB-8724-B5C1A1D64A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0937C83B-160E-4CEB-8724-B5C1A1D64A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0937C83B-160E-4CEB-8724-B5C1A1D64A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937A6F95-0FF4-4DB3-B879-19CAC1B3BD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937A6F95-0FF4-4DB3-B879-19CAC1B3BD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937A6F95-0FF4-4DB3-B879-19CAC1B3BD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937A6F95-0FF4-4DB3-B879-19CAC1B3BD60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
