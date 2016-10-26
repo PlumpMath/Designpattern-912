@@ -12,6 +12,7 @@ namespace 外观模式
         {
             FruitFacade facade = new FruitFacade();
             facade.apple.GetName();
+
             Console.ReadKey();
 
         }
