@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "适配模式的经典案例
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "外观模式", "外观模式\外观模式.csproj", "{937A6F95-0FF4-4DB3-B879-19CAC1B3BD60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "组合模式", "组合模式\组合模式.csproj", "{93B824DE-B326-4727-B8BA-1523AF42BAA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{937A6F95-0FF4-4DB3-B879-19CAC1B3BD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{937A6F95-0FF4-4DB3-B879-19CAC1B3BD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{937A6F95-0FF4-4DB3-B879-19CAC1B3BD60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B824DE-B326-4727-B8BA-1523AF42BAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B824DE-B326-4727-B8BA-1523AF42BAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B824DE-B326-4727-B8BA-1523AF42BAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B824DE-B326-4727-B8BA-1523AF42BAA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,3 +3,4 @@ E:\MyProject\接口模式\对象适配器\bin\Debug\对象适配器.exe
 E:\MyProject\接口模式\对象适配器\bin\Debug\对象适配器.pdb
 E:\MyProject\接口模式\对象适配器\obj\Debug\对象适配器.exe
 E:\MyProject\接口模式\对象适配器\obj\Debug\对象适配器.pdb
+E:\MyProject\接口模式\对象适配器\obj\Debug\对象适配器.csprojResolveAssemblyReference.cache

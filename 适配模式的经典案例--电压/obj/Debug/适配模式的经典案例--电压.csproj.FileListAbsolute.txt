@@ -1,6 +1,5 @@
 E:\MyProject\接口模式\适配模式的经典案例--电压\bin\Debug\适配模式的经典案例--电压.exe.config
 E:\MyProject\接口模式\适配模式的经典案例--电压\bin\Debug\适配模式的经典案例--电压.exe
 E:\MyProject\接口模式\适配模式的经典案例--电压\bin\Debug\适配模式的经典案例--电压.pdb
-E:\MyProject\接口模式\适配模式的经典案例--电压\obj\Debug\适配模式的经典案例--电压.csprojResolveAssemblyReference.cache
 E:\MyProject\接口模式\适配模式的经典案例--电压\obj\Debug\适配模式的经典案例--电压.exe
 E:\MyProject\接口模式\适配模式的经典案例--电压\obj\Debug\适配模式的经典案例--电压.pdb

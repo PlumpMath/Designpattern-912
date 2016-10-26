@@ -1,0 +1,5 @@
+E:\MyProject\接口模式\外观模式\bin\Debug\外观模式.exe.config
+E:\MyProject\接口模式\外观模式\bin\Debug\外观模式.exe
+E:\MyProject\接口模式\外观模式\bin\Debug\外观模式.pdb
+E:\MyProject\接口模式\外观模式\obj\Debug\外观模式.exe
+E:\MyProject\接口模式\外观模式\obj\Debug\外观模式.pdb
