@@ -7,3 +7,6 @@ E:\MyProject\接口模式\多线程计数\obj\Debug\多线程计数.pdb
 C:\Users\wtz\Documents\MyProject\接口模式\多线程计数\bin\Debug\多线程计数.exe.config
 C:\Users\wtz\Documents\MyProject\接口模式\多线程计数\obj\Debug\多线程计数.exe
 C:\Users\wtz\Documents\MyProject\接口模式\多线程计数\obj\Debug\多线程计数.pdb
+C:\Users\wtz\Documents\MyProject\接口模式\多线程计数\bin\Debug\多线程计数.exe
+C:\Users\wtz\Documents\MyProject\接口模式\多线程计数\bin\Debug\多线程计数.pdb
+C:\Users\wtz\Documents\MyProject\接口模式\多线程计数\obj\Debug\多线程计数.csprojResolveAssemblyReference.cache
