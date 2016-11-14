@@ -24,7 +24,6 @@ namespace 单例模式
         {
             static SingleCreator() { }
             internal static readonly T instance = new T();
-
         }
 
     }

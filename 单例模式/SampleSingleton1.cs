@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace 单例模式
 {
+    /// <summary>
+    /// 利用C#的特性单例模式
+    /// </summary>
     public sealed  class SampleSingleton1
     {
         private int m_Counter = 0;

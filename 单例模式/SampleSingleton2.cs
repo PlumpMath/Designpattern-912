@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace 单例模式
 {
+    /// <summary>
+    /// 线程安全的单例模式
+    /// </summary>
     public  class SampleSingleton2
     {
         private static volatile SampleSingleton2 m_Instance = null;

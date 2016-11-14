@@ -13,8 +13,6 @@ namespace 多线程计数
             CountMutilThread cmt = new CountMutilThread();
             cmt.StartMain();
             Console.ReadKey();
-
-
         }
     }
 }

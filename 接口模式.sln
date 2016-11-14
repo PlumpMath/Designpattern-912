@@ -25,6 +25,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "多线程计数", "多线�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式", "单例模式\单例模式.csproj", "{66D3BFFB-1D70-4E5B-81F4-9642F59C112D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "降价通知的普通模式", "降价通知的普通模式\降价通知的普通模式.csproj", "{89B89C11-6FC9-4183-AD46-A350C5A9C299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "降价通知的观察者模式", "降价通知的观察者模式\降价通知的观察者模式.csproj", "{3916A133-FE71-437E-B85A-4651955CF55A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "公交车的观察者模式", "公交车的观察者模式\公交车的观察者模式.csproj", "{1EB65830-E386-46F3-8E86-09232E969573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "拳击中介者模式", "拳击中介者模式\拳击中介者模式.csproj", "{F5B2F76B-9895-4D13-8A21-2BF38F728E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "拳击非中介者得一般模式", "拳击非中介者得一般模式\拳击非中介者得一般模式.csproj", "{6440D51D-33AF-49EE-82DF-0DC307D04790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +85,26 @@ Global
 		{66D3BFFB-1D70-4E5B-81F4-9642F59C112D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66D3BFFB-1D70-4E5B-81F4-9642F59C112D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66D3BFFB-1D70-4E5B-81F4-9642F59C112D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B89C11-6FC9-4183-AD46-A350C5A9C299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B89C11-6FC9-4183-AD46-A350C5A9C299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B89C11-6FC9-4183-AD46-A350C5A9C299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B89C11-6FC9-4183-AD46-A350C5A9C299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3916A133-FE71-437E-B85A-4651955CF55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3916A133-FE71-437E-B85A-4651955CF55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3916A133-FE71-437E-B85A-4651955CF55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3916A133-FE71-437E-B85A-4651955CF55A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB65830-E386-46F3-8E86-09232E969573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB65830-E386-46F3-8E86-09232E969573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB65830-E386-46F3-8E86-09232E969573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB65830-E386-46F3-8E86-09232E969573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B2F76B-9895-4D13-8A21-2BF38F728E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B2F76B-9895-4D13-8A21-2BF38F728E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B2F76B-9895-4D13-8A21-2BF38F728E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B2F76B-9895-4D13-8A21-2BF38F728E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6440D51D-33AF-49EE-82DF-0DC307D04790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6440D51D-33AF-49EE-82DF-0DC307D04790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6440D51D-33AF-49EE-82DF-0DC307D04790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6440D51D-33AF-49EE-82DF-0DC307D04790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
