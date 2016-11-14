@@ -19,5 +19,6 @@ namespace 拳击中介者模式
         /// <param name="num"></param>
         /// <param name="fight"></param>
         public abstract double ChangeGrade(double num, AbstractMediator fight);
+
     }
 }

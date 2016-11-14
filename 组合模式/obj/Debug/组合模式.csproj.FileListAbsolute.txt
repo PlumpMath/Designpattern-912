@@ -3,3 +3,8 @@ E:\MyProject\接口模式\组合模式\bin\Debug\组合模式.exe
 E:\MyProject\接口模式\组合模式\bin\Debug\组合模式.pdb
 E:\MyProject\接口模式\组合模式\obj\Debug\组合模式.exe
 E:\MyProject\接口模式\组合模式\obj\Debug\组合模式.pdb
+C:\Users\wtz\Documents\MyProject\接口模式\组合模式\bin\Debug\组合模式.exe.config
+C:\Users\wtz\Documents\MyProject\接口模式\组合模式\bin\Debug\组合模式.exe
+C:\Users\wtz\Documents\MyProject\接口模式\组合模式\bin\Debug\组合模式.pdb
+C:\Users\wtz\Documents\MyProject\接口模式\组合模式\obj\Debug\组合模式.exe
+C:\Users\wtz\Documents\MyProject\接口模式\组合模式\obj\Debug\组合模式.pdb

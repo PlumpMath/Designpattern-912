@@ -4,3 +4,9 @@ E:\MyProject\接口模式\纯逻辑模式\bin\Debug\纯逻辑模式.pdb
 E:\MyProject\接口模式\纯逻辑模式\obj\Debug\纯逻辑模式.exe
 E:\MyProject\接口模式\纯逻辑模式\obj\Debug\纯逻辑模式.pdb
 E:\MyProject\接口模式\纯逻辑模式\obj\Debug\纯逻辑模式.csprojResolveAssemblyReference.cache
+C:\Users\wtz\Documents\MyProject\接口模式\纯逻辑模式\bin\Debug\纯逻辑模式.exe.config
+C:\Users\wtz\Documents\MyProject\接口模式\纯逻辑模式\bin\Debug\纯逻辑模式.exe
+C:\Users\wtz\Documents\MyProject\接口模式\纯逻辑模式\bin\Debug\纯逻辑模式.pdb
+C:\Users\wtz\Documents\MyProject\接口模式\纯逻辑模式\obj\Debug\纯逻辑模式.csprojResolveAssemblyReference.cache
+C:\Users\wtz\Documents\MyProject\接口模式\纯逻辑模式\obj\Debug\纯逻辑模式.exe
+C:\Users\wtz\Documents\MyProject\接口模式\纯逻辑模式\obj\Debug\纯逻辑模式.pdb

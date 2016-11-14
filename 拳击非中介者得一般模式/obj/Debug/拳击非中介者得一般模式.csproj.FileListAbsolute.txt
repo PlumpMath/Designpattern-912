@@ -1,5 +1,4 @@
 C:\Users\wtz\Documents\MyProject\接口模式\拳击非中介者得一般模式\bin\Debug\拳击非中介者得一般模式.exe.config
-C:\Users\wtz\Documents\MyProject\接口模式\拳击非中介者得一般模式\obj\Debug\拳击非中介者得一般模式.csprojResolveAssemblyReference.cache
 C:\Users\wtz\Documents\MyProject\接口模式\拳击非中介者得一般模式\bin\Debug\拳击非中介者得一般模式.exe
 C:\Users\wtz\Documents\MyProject\接口模式\拳击非中介者得一般模式\bin\Debug\拳击非中介者得一般模式.pdb
 C:\Users\wtz\Documents\MyProject\接口模式\拳击非中介者得一般模式\obj\Debug\拳击非中介者得一般模式.exe

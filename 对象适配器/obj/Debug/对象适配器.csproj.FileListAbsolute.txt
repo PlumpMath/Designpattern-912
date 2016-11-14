@@ -4,3 +4,9 @@ E:\MyProject\接口模式\对象适配器\bin\Debug\对象适配器.pdb
 E:\MyProject\接口模式\对象适配器\obj\Debug\对象适配器.exe
 E:\MyProject\接口模式\对象适配器\obj\Debug\对象适配器.pdb
 E:\MyProject\接口模式\对象适配器\obj\Debug\对象适配器.csprojResolveAssemblyReference.cache
+C:\Users\wtz\Documents\MyProject\接口模式\对象适配器\bin\Debug\对象适配器.exe.config
+C:\Users\wtz\Documents\MyProject\接口模式\对象适配器\bin\Debug\对象适配器.exe
+C:\Users\wtz\Documents\MyProject\接口模式\对象适配器\bin\Debug\对象适配器.pdb
+C:\Users\wtz\Documents\MyProject\接口模式\对象适配器\obj\Debug\对象适配器.csprojResolveAssemblyReference.cache
+C:\Users\wtz\Documents\MyProject\接口模式\对象适配器\obj\Debug\对象适配器.exe
+C:\Users\wtz\Documents\MyProject\接口模式\对象适配器\obj\Debug\对象适配器.pdb

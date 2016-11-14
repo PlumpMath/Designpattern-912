@@ -4,3 +4,9 @@ E:\MyProject\接口模式\桥接模式\bin\Debug\桥接模式.pdb
 E:\MyProject\接口模式\桥接模式\obj\Debug\桥接模式.csprojResolveAssemblyReference.cache
 E:\MyProject\接口模式\桥接模式\obj\Debug\桥接模式.exe
 E:\MyProject\接口模式\桥接模式\obj\Debug\桥接模式.pdb
+C:\Users\wtz\Documents\MyProject\接口模式\桥接模式\bin\Debug\桥接模式.exe.config
+C:\Users\wtz\Documents\MyProject\接口模式\桥接模式\bin\Debug\桥接模式.exe
+C:\Users\wtz\Documents\MyProject\接口模式\桥接模式\bin\Debug\桥接模式.pdb
+C:\Users\wtz\Documents\MyProject\接口模式\桥接模式\obj\Debug\桥接模式.csprojResolveAssemblyReference.cache
+C:\Users\wtz\Documents\MyProject\接口模式\桥接模式\obj\Debug\桥接模式.exe
+C:\Users\wtz\Documents\MyProject\接口模式\桥接模式\obj\Debug\桥接模式.pdb
