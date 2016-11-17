@@ -1,0 +1,5 @@
+C:\Users\wtz\Documents\MyProject\接口模式\无工厂模式下的买水果\bin\Debug\无工厂模式下的买水果.exe.config
+C:\Users\wtz\Documents\MyProject\接口模式\无工厂模式下的买水果\bin\Debug\无工厂模式下的买水果.exe
+C:\Users\wtz\Documents\MyProject\接口模式\无工厂模式下的买水果\bin\Debug\无工厂模式下的买水果.pdb
+C:\Users\wtz\Documents\MyProject\接口模式\无工厂模式下的买水果\obj\Debug\无工厂模式下的买水果.exe
+C:\Users\wtz\Documents\MyProject\接口模式\无工厂模式下的买水果\obj\Debug\无工厂模式下的买水果.pdb

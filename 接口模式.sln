@@ -35,6 +35,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "拳击中介者模式", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "拳击非中介者得一般模式", "拳击非中介者得一般模式\拳击非中介者得一般模式.csproj", "{6440D51D-33AF-49EE-82DF-0DC307D04790}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "代理模式", "代理模式\代理模式.csproj", "{858E6DFC-4C79-46CB-8B5C-6D9D36C27EE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "建造者模式", "建造者模式\建造者模式.csproj", "{7E1B2758-16F4-4425-AE7D-0E0C73161BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工厂模式", "工厂模式\工厂模式.csproj", "{E7C147AC-4EEA-4B9D-97CF-43FC2EB5464E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "无工厂模式下的买水果", "无工厂模式下的买水果\无工厂模式下的买水果.csproj", "{254337B2-F461-460A-B5C9-49C0DF5B6243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "吃水果简单工厂模式", "吃水果简单工厂模式\吃水果简单工厂模式.csproj", "{7D2B18BA-BE04-452F-808B-3573C8B06C3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +115,26 @@ Global
 		{6440D51D-33AF-49EE-82DF-0DC307D04790}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6440D51D-33AF-49EE-82DF-0DC307D04790}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6440D51D-33AF-49EE-82DF-0DC307D04790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858E6DFC-4C79-46CB-8B5C-6D9D36C27EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858E6DFC-4C79-46CB-8B5C-6D9D36C27EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858E6DFC-4C79-46CB-8B5C-6D9D36C27EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858E6DFC-4C79-46CB-8B5C-6D9D36C27EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1B2758-16F4-4425-AE7D-0E0C73161BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1B2758-16F4-4425-AE7D-0E0C73161BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1B2758-16F4-4425-AE7D-0E0C73161BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1B2758-16F4-4425-AE7D-0E0C73161BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C147AC-4EEA-4B9D-97CF-43FC2EB5464E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C147AC-4EEA-4B9D-97CF-43FC2EB5464E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C147AC-4EEA-4B9D-97CF-43FC2EB5464E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C147AC-4EEA-4B9D-97CF-43FC2EB5464E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254337B2-F461-460A-B5C9-49C0DF5B6243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254337B2-F461-460A-B5C9-49C0DF5B6243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254337B2-F461-460A-B5C9-49C0DF5B6243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254337B2-F461-460A-B5C9-49C0DF5B6243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2B18BA-BE04-452F-808B-3573C8B06C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2B18BA-BE04-452F-808B-3573C8B06C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2B18BA-BE04-452F-808B-3573C8B06C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2B18BA-BE04-452F-808B-3573C8B06C3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

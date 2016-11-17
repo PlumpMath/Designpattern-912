@@ -1,0 +1,6 @@
+C:\Users\wtz\Documents\MyProject\接口模式\吃水果简单工厂模式\obj\Debug\吃水果简单工厂模式.csprojResolveAssemblyReference.cache
+C:\Users\wtz\Documents\MyProject\接口模式\吃水果简单工厂模式\bin\Debug\吃水果简单工厂模式.exe.config
+C:\Users\wtz\Documents\MyProject\接口模式\吃水果简单工厂模式\bin\Debug\吃水果简单工厂模式.exe
+C:\Users\wtz\Documents\MyProject\接口模式\吃水果简单工厂模式\bin\Debug\吃水果简单工厂模式.pdb
+C:\Users\wtz\Documents\MyProject\接口模式\吃水果简单工厂模式\obj\Debug\吃水果简单工厂模式.exe
+C:\Users\wtz\Documents\MyProject\接口模式\吃水果简单工厂模式\obj\Debug\吃水果简单工厂模式.pdb
